@@ -1,1 +1,1 @@
-# Rick---Morty-APP-REACT
+# Rick-Morty-APP-REACT
